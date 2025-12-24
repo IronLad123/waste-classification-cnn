@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Large datasets
+waste_dataset/images/*
+!waste_dataset/images/.gitkeep
+
+# OS files
+.DS_Store
+
+
+
